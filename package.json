@@ -1,0 +1,26 @@
+{
+  "name": "create-component",
+  "version": "1.0.0",
+  "description": "CLI for scaffolding React components with SCSS/Styled Components, tests, and Storybook",
+  "keywords": [
+    "cli",
+    "react",
+    "component",
+    "scaffold"
+  ],
+  "bin": {
+    "create-component": "./bin/cli.js"
+  },
+  "type": "module",
+  "files": [
+    "bin/",
+    "lib/",
+    "templates/"
+  ],
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "fs-extra": "^11.3.1",
+    "inquirer": "^9.3.7",
+    "inquirer-file-tree-selection-prompt": "^2.0.5"
+  }
+}
