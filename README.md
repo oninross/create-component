@@ -30,7 +30,13 @@ A **command-line tool** to scaffold React components with optional **SCSS Module
 ### Globally (recommended)
 
 ```bash
-npm install -g /path/to/create-component
+npm i @oninross/create-component -g
+```
+
+### npx
+
+```bash
+npx @oninross/create-component
 ```
 
 ---
