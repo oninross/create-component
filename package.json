@@ -1,6 +1,6 @@
 {
   "name": "@oninross/create-component",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "CLI for scaffolding React components with SCSS/Styled Components, tests, and Storybook",
    "repository": {
     "type": "git",
