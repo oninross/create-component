@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { {{COMPONENT_NAME}}Props } from './{{COMPONENT_NAME}}.types';
 {{STYLE_IMPORT}}
